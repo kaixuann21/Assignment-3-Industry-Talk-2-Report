@@ -1,6 +1,8 @@
 # Assignment-3-Industry-Talk-2-Report
 **Course:** Technology and Information System (SECP1513)
 
+**Group:** 7
+
 This assignment is a group academic writting report of an industry talk, **Project Management and System Development**. 
 
 ## Report Content
